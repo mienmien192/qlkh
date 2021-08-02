@@ -1,0 +1,7 @@
+1. npm init -y
+2. chạy chuong trinh
+npm start = node server
+3. npm install --save-dev nodemon
+4. chay chuong trinh 1 lan duy nhat:nodemon server
+nhúng dữ liệu: <%= %>
+5. npm install express ejs 
